@@ -121,7 +121,7 @@ default the object uses the most efficient encoding for the contents. You can
 change this though. See qrcode.tables.modes for a list of possible values
 for this parameter.
 
-The code below constructs a QR code with 25% error correction, size 27, and
+The code below constructs a QR code with 7% error correction, size 27, and
 forces the encoding to be binary (rather than numeric).
 
 ```python
